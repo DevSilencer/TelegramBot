@@ -35,7 +35,7 @@ This bot responds to `/start`, `/help`, and `/anonymous` commands and forwards u
    * `adminId` – Telegram ID of the admin 👤
 
 3. **Upload your bot code**
-   Copy the bot code (`index.js` or the main file) into the Worker editor. 📂
+   Copy the bot code (`telegramBot.js` or the main file) into the Worker editor. 📂
 
 4. **Deploy the Worker**
    Save and deploy your Worker. You can now access it via the Worker URL. 🌐
